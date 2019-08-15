@@ -30,8 +30,8 @@ Team diversity is one of the fundamental issues in social and organizational stu
   - [projects_vers.csv](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Final%20Project/project_vers.csv>)
   - [users_vers.csv](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Final%20Project/users_vers.csv>)
   - [mem_commits.csv](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Final%20Project/mem_commits.csv>)
-- Final report documentation [**Link**](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Final%20Project/MIE1512%20Data%20Analytics%20Project%20Submission%20Guidelines-1.pdf>)
-- PPT for presentation [**Link**]()
+- Final report documentation [**Link**](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Final%20Project/ZHANG_YFIAN_VERSATILITY%20ON%20PRODUCTIVITY.pdf>)
+- PPT for presentation [**Link**](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Final%20Project/presentation.pdf>)
 
 - Spark cheatsheet [**Link**](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Cheatsheet.md>)
 
