@@ -33,5 +33,5 @@ Team diversity is one of the fundamental issues in social and organizational stu
 - Final report documentation [**Link**](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Final%20Project/MIE1512%20Data%20Analytics%20Project%20Submission%20Guidelines-1.pdf>)
 - PPT for presentation [**Link**]()
 
-- Spark cheatsheet [**Link**](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/README.md>)
+- Spark cheatsheet [**Link**](<https://github.com/yiiifan/MIE1512-Data-Analytics/blob/master/Cheatsheet.md>)
 
